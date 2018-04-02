@@ -5,7 +5,7 @@ This is a simple arcade game clone built for the purpose of Udacity Nanodegree P
 This is a simple frogger game built. There's a canvas with 2 sides and a road. You need to pass the player avatar from the one side(grass) to the other(river) without making any collision with obstacles.
 
 ## How to Play
-Run index.html at your local broswer or click the link https://sikelos13.github.io/Classic-Game/ 
+Run index.html at your local broswer or click the link https://sikelos13.github.io/Classic-Arcade/
 .Use your arrow keys.
 
 ## Instructions
